@@ -31,7 +31,6 @@ img {
     display: block;
 }
 
-
 header {
     text-align: center;
     margin-bottom: 4rem;
@@ -115,9 +114,6 @@ header p {
     font-weight: 700;
 }
 
-/* ================================
-   BOUTON
-   ================================ */
 .button {
     display: inline-block;
     background-color: var(--color-primary);
@@ -148,7 +144,6 @@ header p {
     background-color: #1e7e34;
 }
 
-
 footer {
     text-align: center;
     padding: 2rem 0;
@@ -158,9 +153,9 @@ footer {
     color: var(--color-text-secondary);
 }
 
-/* ================================
-   RESPONSIVE
-   ================================ */
+
+
+/* === RESPONSIVE === */
 @media (max-width: 768px) {
     header h1 {
         font-size: 2.5rem;
